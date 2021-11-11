@@ -1,0 +1,370 @@
+img.face{
+  float: left;
+  padding-left: 200px;
+  padding-top: 20px;
+  width: 70px;
+  height: 70px;
+  margin: 0;
+}
+
+p.navitem2{
+  float: right;
+  padding-right: 200px;
+  padding-top: 45px;
+  text-align: right;
+  color: #999999;
+  font-size: 15px;
+  font-family: Poppins;
+  font-weight: 400;
+  margin: 0;
+}
+
+h1.header{
+  padding-top: 350px;
+  padding-left: 0px;
+  text-align: center;
+  color: #061b2c;
+  font-size: 70px;
+  font-family: Poppins;
+  font-weight: 800px;
+  margin: 0px;
+}
+
+p.header-content{
+  padding-left: 0px;
+  padding-top: 10px;
+  text-align: center;
+  color: #4a4a4a;
+  font-size: 25px;
+  font-family: Poppins;
+  font-weight: 400;
+  margin: 0;
+}
+
+a:visited {
+  color: #4a4a4a;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover{
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+img.image1{
+  width:900px;
+  height:750px;
+  margin-top: 350px;
+  margin-left: 45px;
+  float: left;
+  margin-bottom: 350px;
+}
+
+p.project1-header{
+  float: left;
+  margin-top: 500px;
+  margin-left: 0px;
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+p.project1-content{
+  float: right;
+  margin-top: 0px;
+  margin-right: 210px;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 20px;
+  float: left;
+  color: gray;
+}
+
+button.button1{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: Poppins;
+    margin-top: 60px;
+    float: left;
+}
+
+button.button1:hover {
+  background-color: gray;
+  color: white;
+}
+
+a.button1page{
+  text-decoration: none;
+  color: white;
+}
+
+img.image2{
+  width:900px;
+  height:750px;
+  margin-top: 0px;
+  margin-left: 45px;
+  float: left;
+  margin-bottom: 350px;
+}
+
+p.project2-header{
+  float: left;
+  margin-top: 150px;
+  margin-right: 464px;
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+p.project2-content{
+  float: left;
+  margin-top: 0px;
+  margin-right: 210px;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 20px;
+  float: left;
+  color: gray;
+}
+
+button.button2{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: Poppins;
+    float: left;
+    margin-top: 60px;
+}
+
+button.button2:hover {
+  background-color: gray;
+  color: white;
+}
+
+img.image3{
+  width:900px;
+  height:750px;
+  margin-top: 0px;
+  margin-left: 45px;
+  float: left;
+  margin-bottom: 350px;
+}
+
+p.project3-header{
+  float: left;
+  margin-top: 150px;
+  margin-right: 464px;
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+p.project3-content{
+  float: left;
+  margin-top: 0px;
+  margin-right: 210px;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 20px;
+  float: left;
+  color: gray;
+}
+
+button.button3{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: Poppins;
+    float: left;
+    margin-top: 60px;
+}
+
+button.button3:hover {
+  background-color: gray;
+  color: white;
+}
+
+img.image4{
+  width:900px;
+  height:750px;
+  margin-top: 0px;
+  margin-left: 45px;
+  float: left;
+  margin-bottom: 350px;
+}
+
+p.project4-header{
+  float: left;
+  margin-top: 150px;
+  margin-right: 464px;
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+p.project4-content{
+  float: left;
+  margin-top: 0px;
+  margin-right: 210px;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 20px;
+  float: left;
+  color: gray;
+}
+
+button.button4{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: Poppins;
+    float: left;
+    margin-top: 60px;
+}
+
+button.button4:hover {
+  background-color: gray;
+  color: white;
+}
+
+img.image5{
+  width:900px;
+  height:750px;
+  margin-top: 0px;
+  margin-left: 45px;
+  float: left;
+  margin-bottom: 0px;
+}
+
+p.project5-header{
+  float: left;
+  margin-top: 150px;
+  margin-right: 464px;
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+p.project5-content{
+  float: left;
+  margin-top: 0px;
+  margin-right: 210px;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 20px;
+  float: left;
+  color: gray;
+}
+
+button.button5{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: Poppins;
+    float: left;
+    margin-top: 60px;
+}
+
+button.button5:hover {
+  background-color: gray;
+  color: white;
+}
+
+h2.blog-header{
+  margin-top: 5700px;
+  font-family: Poppins;
+  margin-bottom:0px;
+  text-align: center;
+  color: black;
+  font-size: 35px;
+  font-family: Poppins;
+  font-weight: 600;
+}
+
+p.blog1-header{
+  font-family: Poppins;
+  margin-bottom: 40px;
+  text-align: center;
+  color: #4a4a4a;
+  font-size: 25px;
+  font-family: Poppins;
+  font-weight: 400;
+}
+
+img.blog1image{
+  width:457px;
+  height:429px;
+  margin-top: 20px;
+  margin-left: 80px;
+  margin-bottom: 50px;
+  float: left;
+}
+
+img.blog2image{
+  width:457px;
+  height:429px;
+  margin-top: 20px;
+  margin-left: 70px;
+  margin-bottom: 50px;
+  float: left;
+}
+
+img.blog3image{
+  width:457px;
+  height:429px;
+  margin-top: 20px;
+  margin-left: 70px;
+  margin-bottom: 50px;
+}
+
+p.copyright{
+  margin-top:100px;
+  text-align: center;
+  font-size:16px;
+  font-family: Poppins;
+  color: #aaaaaa;
+  margin-bottom:50px;
+}
